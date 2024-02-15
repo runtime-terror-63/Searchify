@@ -1,3 +1,6 @@
+![White and Yellow India Travel Vlog YouTube Thumbnail](https://github.com/runtime-terror-63/Searchify/assets/94905513/f4a95dde-2818-4e1d-9dd3-858463f43b6e)
+
+
 # ➡️Searchify 🚀🔥
 
 Searchify is a React.js application that utilizes Tailwind CSS and the Google Custom Search API to create an interactive and visually appealing search engine. This project focuses on incorporating core concepts of React.js such as JSX, components, props, state management, lifecycle methods, conditional rendering, lists, keys, and the Context API. Furthermore, it employs advanced JavaScript logic to enhance the interactivity and aesthetics of the application.
