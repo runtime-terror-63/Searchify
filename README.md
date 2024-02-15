@@ -29,7 +29,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository:
 
 ```bash
-# This is a comment in Bash
-echo "Hello, World!"
-ls -l
+git clone https://github.com/your-username/Searchify.git
+```
+
 
