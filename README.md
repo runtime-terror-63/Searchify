@@ -1,8 +1,8 @@
-# Searchify
+# ➡️Searchify 🚀🔥
 
 Searchify is a React.js application that utilizes Tailwind CSS and the Google Custom Search API to create an interactive and visually appealing search engine. This project focuses on incorporating core concepts of React.js such as JSX, components, props, state management, lifecycle methods, conditional rendering, lists, keys, and the Context API. Furthermore, it employs advanced JavaScript logic to enhance the interactivity and aesthetics of the application.
 
-## Features
+## Features 🌐
 
 - Utilizes React.js for efficient component-based development.
 - Integrates Tailwind CSS for a modern and responsive design.
@@ -14,7 +14,7 @@ Searchify is a React.js application that utilizes Tailwind CSS and the Google Cu
 - Utilizes lists and keys for efficient rendering of dynamic content.
 - Utilizes the Context API for state management across components.
 
-## Getting Started
+## Getting Started 🔰
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
@@ -24,7 +24,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 - Google Custom Search API key
 - Google Custom Search Engine ID
 
-### Installation
+### Installation 
 
 1. Clone the repository:
 
@@ -62,7 +62,7 @@ npm start
 
 1. Open your browser and visit http://localhost:3000 to view the application.
 
-### Built With
+### Built With 👨‍💻
 1. React.js - JavaScript library for building user interfaces
 2. Tailwind CSS - A utility-first CSS framework
 3. Google Custom Search API - A programmatic way to use Google Search for your website or app
